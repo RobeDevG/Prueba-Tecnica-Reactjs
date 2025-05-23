@@ -1,15 +1,17 @@
-# Prueba Técnica - React.js con Vite
+# 🧪 Prueba Técnica – React.js + Vite
 
-Este proyecto es una prueba técnica desarrollada con **React.js** y **Vite**.
+Este repositorio contiene una prueba técnica desarrollada utilizando React.js junto a Vite como herramienta de construcción. El objetivo de este proyecto es demostrar habilidades prácticas en desarrollo frontend moderno.
 
-## 🚀 Instalación y Ejecución
+## ⚙️ Requisitos Previos
 
-Sigue estos pasos para instalar las dependencias y ejecutar el proyecto en tu entorno local.
+Asegúrate de tener instalado lo siguiente:
 
-### Instalación de dependencias
+- [Node.js](https://nodejs.org/) (v16 o superior recomendado)
+- npm (v7 o superior) o [Yarn](https://yarnpkg.com/) si lo prefieres
+
+Puedes verificar tu versión actual ejecutando:
 
 ```sh
-npm install
+node -v
 
-```sh
-npm run dev
+npm -v
