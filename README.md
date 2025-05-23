@@ -7,7 +7,7 @@ Este repositorio contiene una prueba técnica desarrollada utilizando React.js j
 Asegúrate de tener instalado lo siguiente:
 
 - [Node.js](https://nodejs.org/) (v16 o superior recomendado)
-- npm (v7 o superior) o [Yarn](https://yarnpkg.com/) si lo prefieres
+- npm (v7 o superior)
 
 Puedes verificar tu versión actual ejecutando:
 
