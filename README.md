@@ -9,9 +9,7 @@ Asegúrate de tener instalado lo siguiente:
 - [Node.js](https://nodejs.org/) (v16 o superior recomendado)
 - npm (v7 o superior)
 
-Puedes verificar tu versión actual ejecutando:
-
 ```sh
-node -v
+npm install
 
-npm -v
+npm run dev
