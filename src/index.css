@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #4F46E5;
+  --color-primary-hover: #4338CA;
+  --color-background: #EEF2FF;
+  --color-background-secondary: #E0E7FF;
+  --color-text: #1F2937;
+  --color-text-secondary: #6B7280;
+  --color-border: #E5E7EB;
+  --color-error: #EF4444;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+@layer base {
+  ol {
+    list-style-position: inside;
+  }
+}
+
+@layer components {
+  .gradient-background {
+    @apply bg-gradient-to-br from-[var(--color-background)] to-[var(--color-background-secondary)];
+  }
+}
